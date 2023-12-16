@@ -19,8 +19,10 @@ const vueApp = createApp({
 
 vueApp.component("token-add", {
     template: `
-    <input type="text" v-model="token">
-    <div @click="addToken">Add</div>
+    <div>
+        <input type="text" v-model="token">
+        <div @click="addToken">Add</div>
+    </div>
     `,
     data() {
         return {
@@ -36,3 +38,5 @@ vueApp.component("token-add", {
         }
     }
 })
+
+vueApp.mount("#app");
