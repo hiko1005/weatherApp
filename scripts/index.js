@@ -11,10 +11,9 @@ const vueApp = createApp({
         
     },
     mounted() {
-        localStorage.getItem("cities") ? this.cities = JSON.parse(localStorage.getItem("cities")) : this.cities = [];
-        localStorage.getItem("token") {
-            this.token = localStorage.getItem("token");
-        }
+        localStorage.getItem("cities") ? this.cities = JSON.parse(localStorage.getItem("cities")) : this.cities = []
+        localStorage.getItem("token")
+        this.token = localStorage.getItem("token");
     }
 })
 
