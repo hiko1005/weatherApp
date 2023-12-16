@@ -1,0 +1,15 @@
+#app {
+    background: #0A2647;
+}
+
+.cont {
+    margin: auto;
+}
+
+.add-token {
+    transition: all 300ms;
+}
+
+.add-token:hover {
+    transform: scale(1.1);
+}
