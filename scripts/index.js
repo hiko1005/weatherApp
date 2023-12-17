@@ -25,7 +25,7 @@ vueApp.component("token-add", {
               <ul class="list-group list-group-flush">
                 <li class="list-group-item">
                     <div class="input-group mb-3">
-                      <input type="text" class="form-control" placeholder="Token" aria-label="Recipient's username" aria-describedby="basic-addon2">
+                      <input type="text" class="form-control token-input" placeholder="Token" aria-label="Recipient's username" aria-describedby="basic-addon2">
                       <span class="input-group-text" id="basic-addon2">Example: 111-111-111</span>
                     </div>
                 </li>

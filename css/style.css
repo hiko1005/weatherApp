@@ -13,3 +13,7 @@
 .add-token:hover {
     transform: scale(1.1);
 }
+
+.token-input:invalid {
+    border: 2px solid #ff0000;
+}
