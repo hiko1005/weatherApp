@@ -1,7 +1,7 @@
 {
     "short_name": "Weather",
     "name": "Weather: Do I need an umbrella?",
-    "start_url": "/",
+    "start_url": "./index.html",
     "background_color": "#3367D6",
     "display": "standalone",
     "scope": "/",
