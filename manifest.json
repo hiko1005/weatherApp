@@ -10,17 +10,17 @@
     "description": "Weather forecast information",
     "icons": [
       {
-        "src": "./images/weather-app-ico-512",
+        "src": "./images/weather-app-ico-512.png",
         "sizes": "512x512",
         "type": "image/png"
       },
       {
-        "src": "./images/weather-app-ico-128",
+        "src": "./images/weather-app-ico-128.png",
         "sizes": "128x128",
         "type": "image/png"
       },
       {
-        "src": "./images/weather-app-ico-16",
+        "src": "./images/weather-app-ico-16.png",
         "sizes": "16x16",
         "type": "image/png"
       }
